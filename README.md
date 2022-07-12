@@ -2,4 +2,4 @@
 - Sou professora do Colégio Estadual Vinicius de Moraes.
 - Leciono a disciplina de Educação Financeira e Pensamento Computacional.
 - As aulas de Pensamento Computacional acontecem nas Segundas- feiras no 1º horário: 18h:50 as 19h:40.
-
+https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
